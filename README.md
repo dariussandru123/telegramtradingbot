@@ -1,5 +1,9 @@
 Automated Trading Bot - Telegram & Binance Integration
-This bot automatically reads trading signals from a Telegram group and executes trades on Binance. It classifies signals using AI and ignores predefined cryptocurrencies like BTC and ETH to focus on smaller, more volatile altcoins.
+
+Here's something cool I wanted to share. I created a trading bot that's a bit different from what you usually see. It was inspired by the activity in TraderSZ's Telegram group, which is packed with over 80,000 members.
+I noticed that when TraderSZ mentions an altcoin, there's a significant swing in its price due to the buy/sell pressure from his followers. So, I set up my bot to automatically read and classify these calls - long or short, new or an update.
+What's more, my bot smartly ignores larger, less impactable cryptos like BTC, ETH, or BNB, and doesn't pay attention to TraderSZ's take profit or stop loss levels either. The goal here is to catch the initial surge or drop triggered by the massive community, not the eventual targets set by TraderSZ.
+
 
 Key Features
 Automatically detects trading signals from a Telegram channel.
